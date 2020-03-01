@@ -1,37 +1,35 @@
 ---
 layout: page
-title: About the Theme
+title: Ada lovelace!
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+date: 2020-03-01
+comments: true
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+<center>안녕하세요 개발과 운동을 좋아하는 <a href="https://github.com/homeless-leesky"><b>이하늘</b></a>입니다. </center>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<a href="../assets/img/te-1.jpg"><img src="../assets/img/te-1.jpg"></a>
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+<br>
+
+<center><h2>Ada! 당신에게 저를 소개합니다.✨</h2></center>
+
+* 99년도에 부천에서 태어나 안양에서 자랐습니다. 
+* 새로운 것을 두려워하지 않습니다.
+* 트렌드에 민감합니다.
+* 도전을 즐깁니다.
+* 평균적으로 주 5일 하루 2시간 운동에 시간을 투자합니다.
+* 자바스크립트에 대해서 항상 궁금해합니다.
+* 자바스크립트 백엔드 개발자가 되는 것이 목표입니다.
+* 프론트엔드 기술에 관심이 많습니다. (vue, react... 등등)
+* 최근 node.Js와 백엔드 프레임워크에 대해서 학습중입니다. 
+* 기타를 칠 줄 압니다.
+* 팔에 상어타투가 있습니다. 이것은 진취, 자유, 강인함을 의미합니다.
+
 
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[홈으로](https://homeless-leesky.github.io){: .btn}

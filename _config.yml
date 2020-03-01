@@ -1,14 +1,14 @@
 # Site
 title:              homeless-leesky
 bio:                '개발과 운동을 좋아하는 이하늘입니다.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Oh Ada It's you!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.jpg'
 background:         'assets/img/yellow_back.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_KR
-url:                https://homeless-leesky.github.io/
+url:                https://homeless-leesky.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           username
-github-url:         username
+facebook:           'homelessLeesky'
+github-url:         'homeless-leesky'
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          'leehaneul0623'
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
